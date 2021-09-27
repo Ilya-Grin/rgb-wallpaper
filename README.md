@@ -1,5 +1,5 @@
 # rgb-wallpaper
-[rgb-wallpaper](https://ilya-grin.github.io/Find-Your-Job/) -  красивый фон для рабочего стола в браузере.
+[rgb-wallpaper](https://ilya-grin.github.io/rgb-wallpaper/) -  красивый фон для рабочего стола в браузере.
 ____
 Создатель: Илья Анусевич
 ## Технологии

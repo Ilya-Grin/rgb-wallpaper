@@ -33,8 +33,8 @@ function generate() {
 		e.style.background = gradient();
 	});
 	setTimeout(function () {
-		wrapper.style.opacity = '0';
-	}, 2600)
+		wrapper.style.opacity = '0.4';
+	}, 3800)
 }
 
 document.onload = generate();
@@ -55,4 +55,4 @@ setInterval(function () {
 		}
 	});
 
-}, 3000);
+}, 4500);
